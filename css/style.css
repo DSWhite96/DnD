@@ -1,0 +1,51 @@
+button {
+    background-color: #4CAF50; /* Green */
+    border-width: 2px;
+    border-color: #1e5820;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: block;
+}
+
+header {
+    font-size: 50px;
+    background-color: #4CAF50;
+    padding-top: 0;
+    color: white;
+    text-align: center;
+}
+
+h1, body h1 {
+    text-align: center;
+    color: #4CAF50;
+}
+
+header h1 {
+    color: white;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+footer {
+    font-size: 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#diceRolls {
+    display: inline;
+}
